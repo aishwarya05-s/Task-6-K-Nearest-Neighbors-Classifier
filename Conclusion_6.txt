@@ -1,0 +1,12 @@
+1. Dropped the unnecessary column "Id".
+
+2. Correlation matrix:
+   i) We observe a high positive correlation between Sepal Length and Petal Length.
+   ii) We observe a high positive correlation between Sepal Length and Petal Width.
+   iii) We observe a moderate negative correlation between sepal width and petal length.
+   iv) We observe a moderate negative correlation between sepal width and petal width.
+   v) We observe a high positive correlation between Petal width and Petal Length.
+
+3. We observe an elbow point at k=3; thus, the optimal value of k is 3.
+
+4. The model accuracy is 0.96 indicating good classification.
